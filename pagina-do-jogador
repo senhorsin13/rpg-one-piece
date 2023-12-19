@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina do jogador</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>
+        nesta pagina voçê ira definir os atributos do seu personagem como raça profissão e esilo de luta, e anotar em uma folha separada<br><br>
+        <select class="form-select" aria-label="Default select example" class="escolha">
+            <option selected>selecione sua raça</option>
+            <option value="1">humano</option>
+            <option value="2">ciborgue</option>
+          </select>       
+          <select class="form-select" aria-label="Default select example" class="escolha">
+            <option selected>selecione sua profissão</option>
+            <option value="1">espadaxim</option>
+            <option value="2">atirador</option>
+            <option value="3">lutador</option>
+          </select>      
+          <select class="form-select" aria-label="Default select example" class="escolha">
+            <option selected>selecione seu estilo de luta</option>
+            <option value="1">karate</option>
+            <option value="2">chute sombrio</option>
+            <option value="3">kung-fu</option>
+          </select>
+        
+        <p>
+          apos escolher os atributos acima  você deve sóseguir as instruçoes ditas pelo mestre rpg e anotar as escolhas num papel. <br>
+          Tenha Um Bom jogo!
+        </p>
+      </h1>
+</body>
+</html>
