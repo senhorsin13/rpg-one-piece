@@ -1,0 +1,19 @@
+
+    background-color: rgb(216, 216, 255);
+    padding: 40px;
+    border: orangered dashed;
+    text-align: center;
+}
+p{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h2{
+    padding-left: 40px;
+    padding-right: 40px ;
+}
+a{
+    width: 200px;
+    padding-left: 15px;
+    text-align: right;
+}
