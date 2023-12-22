@@ -1,16 +1,16 @@
 h1{
     background-color: rgb(216, 216, 255);
-    padding: 40%;
+    padding: 15%;
     border: orangered dashed;
     text-align: center;
 }
 p{
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 h2{
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 a{
     width: 200%;
