@@ -1,19 +1,19 @@
-body{
+h1{
     background-color: rgb(216, 216, 255);
-    padding: 40px;
+    padding: 40%;
     border: orangered dashed;
     text-align: center;
 }
 p{
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 h2{
-    padding-left: 40px;
-    padding-right: 40px ;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 a{
-    width: 200px;
-    padding-left: 15px;
+    width: 200%;
+    padding-left: 15%;
     text-align: right;
 }
